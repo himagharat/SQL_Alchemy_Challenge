@@ -1,10 +1,9 @@
+# SQL Challenge
+
 ![surfs-up.png](Images/surfs-up.png)
 
-Tasked to do climate analysis on Honolulu, Hawaii using Python and SQLAlchemy.
-
-## Step 1 - Climate Analysis and Exploration
-
-To begin, used Python and SQLAlchemy to do basic climate analysis and data exploration of climate database. All of the following analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+## Objective:
+To use Python and SQLAlchemy to do basic climate analysis and data exploration of a climate database. 
 
 ### Precipitation Analysis
 
@@ -30,9 +29,7 @@ To begin, used Python and SQLAlchemy to do basic climate analysis and data explo
 
     ![station-histogram](Images/station-histogram.png)
 
-- - -
-
-## Step 2 - Climate App
+### Climate App
 
 After completing the initial analysis, the next step was to design a Flask API based on the queries just developed.
 
@@ -40,5 +37,9 @@ After completing the initial analysis, the next step was to design a Flask API b
 
   * Return the JSON representation of your dictionary.
 
+## Technologies:
 
+* SQL Alchemy
+* Jupyter Notebook
+* Python
 ` 
